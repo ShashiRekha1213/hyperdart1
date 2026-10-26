@@ -63,6 +63,6 @@ export default  {
 	info: {
 		// key-values added here will be added to the compInfo section of searchData
 	},
-	github: "",
+	github: "https://github.com/ShashiRekha1213/hyperdart1",
 	demovideo: "https://drive.google.com/file/d/1Cd2wl0iI-xe4lVFwbfBK9ZC_asf3v8xq/view?usp=sharing"
 }
