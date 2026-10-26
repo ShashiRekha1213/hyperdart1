@@ -1,0 +1,7 @@
+node_modules/
+dist/
+stats.html
+.env
+.env.*
+src/frontend-backup/
+.DS_Store

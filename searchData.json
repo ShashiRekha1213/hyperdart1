@@ -1,0 +1,16 @@
+[
+  {
+    "component": "package-insight-hyperdart",
+    "componentPrimaryName": "",
+    "templateID": 804401,
+    "entities": [],
+    "query": "npm express",
+    "componentEnabled": true,
+    "keyword": [],
+    "disambiguationType": 1,
+    "time": "2026-10-26T09:24:50.924Z",
+    "quickView": 3,
+    "queryRegex": "(npm( packages?)?|package info) HD_PACKAGES.NPM_PACKAGES",
+    "componentType": "external"
+  }
+]
